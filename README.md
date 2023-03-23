@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I'm Nguyễn Phát Đạt, you can call me Frenkie !
 
-##🌱 I’m currently learning JavaScript
+🌱 I’m currently learning JavaScript
 
 <!--
 **fdat3/fdat3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
