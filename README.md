@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### I'm Nguyễn Phát Đạt, you can call me Frenkie !
 
-🌱 I’m currently learning JavaScript <br />
-:sparkles: Have experience with Java,C#, NodeJS, ReactJS, ASP.NET, SQL Server, MySQL, Sequelize, PostgresQL!
+🌱Currently, I’m  learning JavaScript <br />
+:sparkles: Have experience with Java, C#, NodeJS, ReactJS, ASP.NET, SQL Server, MySQL, Sequelize, PostgresQL!
 
 ### Find me all around the web:
 
