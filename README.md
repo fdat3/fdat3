@@ -21,7 +21,7 @@
 Currently, I'm learning to become a website developer, excepting I'm a Creative Content Design in MCVN and Creative Content in MCSVN, their are two largest page about Manchester City's fandom in Vietnam 
 
 ✨ 16 years old join MCSVN, become a Creator Content <br />
-✨ 18 years old join MCVN, after 6 months become Lead Design and Content, my famous post was reached 2M peoples, 1M views, 30K likes, 600 comments on Facebook's platform. <br />
+✨ 17 years old join MCVN, after 6 months become Lead Design and Content, my famous post was reached 2M peoples, 1M views, 30K likes, 600 comments on Facebook's platform. <br />
 ✨ Now, I'm take my responsibility for MCVN on Manchester City's fandom actives in Vietnam. <br />
 
 ### My Career Orientation
