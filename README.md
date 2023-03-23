@@ -3,7 +3,9 @@
 
 🌱Currently, I’m  learning JavaScript <br />
 :sparkles: Have experience with Java, C#, NodeJS, ReactJS, ASP.NET, SQL Server, MySQL, Sequelize, PostgresQL. <br />
-:mag: Knowladge about Social Media's tool like Photoshop, Canva...
+:mag: Knowladge about Social Media's tool like Photoshop, Canva...<br />
+<br />
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,java,nodejs,dotnet,github,git,ps,linux,postman,react,redux,vscode,mysql,express&theme=dark&perline=6)](https://skillicons.dev)
 
 ### Find me all around the web:
 
@@ -34,7 +36,11 @@ Currently, I'm learning to become a website developer, excepting I'm a Creative 
 **fdat3/fdat3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fdat3&theme=darcula)
 [![GitHub Streak](https://streak-stats.demolab.com?user=fdat3&theme=dracula)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fdat3&count_private=true&theme=dracula)<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdat3&hide_progress=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)<br />
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@fdat3)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fdat3&count_private=true&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fdat3&theme=darcula&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fdat3&theme=darcula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fdat3&theme=darcula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fdat3&theme=darcula&utcOffset=8)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@fdat3)](https://github.com/anuraghazra/github-readme-stats)<br />
