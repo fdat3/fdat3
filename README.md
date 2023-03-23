@@ -2,11 +2,13 @@
 ### I'm Nguyễn Phát Đạt, you can call me Frenkie !
 
 🌱Currently, I’m  learning JavaScript <br />
-:sparkles: Have experience with Java, C#, NodeJS, ReactJS, ASP.NET, SQL Server, MySQL, Sequelize, PostgresQL!
+:sparkles: Have experience with Java, C#, NodeJS, ReactJS, ASP.NET, SQL Server, MySQL, Sequelize, PostgresQL. <br />
+:mag: Knowladge about Social Media's tool like Photoshop, Canva...
 
 ### Find me all around the web:
 
 <p align="left">
+ <a href="http://facebook.com/ng.phatdat.369" target="blank"><img align="center" src="http://i.imgur.com/P3YfQoD.png" title = "Facebook" alt="" height="30" /></a>
 <a href="http://twitter.com/@npd21" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
 <a href="http://instagram.com/frenki3_" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
 </p>
