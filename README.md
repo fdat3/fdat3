@@ -26,7 +26,7 @@ Currently, I'm learning to become a website developer, excepting I'm a Creative 
 
 :large_blue_diamond: Become Website Developer <br />
 :large_blue_diamond: After 30, I wish I can move on different role like Teach Lead, Project Manager...it's just my dream :satisfied: <br />
-:large_blue_diamond: My biggest targest will be show on there if I sit that chair...:heart_eyes:
+:large_blue_diamond: My biggest target will be show on there if I sit that chair...:heart_eyes:
 
 <!--
 **fdat3/fdat3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
