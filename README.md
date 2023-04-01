@@ -43,5 +43,4 @@ Currently, I'm learning to become a website developer, excepting I'm a Creative 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fdat3&theme=darcula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fdat3&theme=darcula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fdat3&theme=darcula&utcOffset=8)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@fdat3)](https://github.com/anuraghazra/github-readme-stats)
 
