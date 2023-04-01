@@ -38,9 +38,4 @@ Currently, I'm learning to become a website developer, excepting I'm a Creative 
 -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fdat3&theme=darcula)
 [![GitHub Streak](https://streak-stats.demolab.com?user=fdat3&theme=dracula)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fdat3&count_private=true&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fdat3&theme=darcula&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fdat3&theme=darcula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fdat3&theme=darcula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fdat3&theme=darcula&utcOffset=8)
 
