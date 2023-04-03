@@ -39,23 +39,3 @@ Currently, I'm learning to become a website developer, excepting I'm a Creative 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fdat3&theme=darcula)
 [![GitHub Streak](https://streak-stats.demolab.com?user=fdat3&theme=dracula)](https://git.io/streak-stats)
 
-name: Waka Readme
-
-on:
-  workflow_dispatch: # for manual workflow trigger
-  schedule:
-    - cron: "0 0 * * *" # runs at every 12AM UTC
-
-jobs:
-  update-readme:
-    name: WakaReadme DevMetrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.waka_2d51010e-be14-43d8-90b4-4ad399010dac }}
-          # following flags are required, only if this is not on
-          # profile readme, remove the leading `#` to use them
-          #GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          #REPOSITORY: <fdat3/fdat3>
-
