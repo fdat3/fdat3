@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=fdat3)
 
-🌱Currently, I’m  deep learning JavaScript <br />
+🌱Currently, I’m  learning TypeScript <br />
 :sparkles: Have experience with Java, C#, NodeJS, ReactJS, ASP.NET, SQL Server, MySQL, Sequelize, PostgresQL. <br />
 :mag: Knowladge about Social Media's tool like Photoshop, Canva...<br />
 <br />
