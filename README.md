@@ -1,4 +1,3 @@
-### Hi there 👋
 ### I'm Nguyễn Phát Đạt, you can call me Frenkie !
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fdat3&theme=darcula)
